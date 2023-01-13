@@ -1,2 +1,2 @@
-# st
-My st terminal configuration
+# My st terminal config
+Forked from: [suckless.org](https://st.suckless.org/)
